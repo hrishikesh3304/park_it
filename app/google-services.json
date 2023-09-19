@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345022933810",
+    "project_id": "parkit-a8cb0",
+    "storage_bucket": "parkit-a8cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345022933810:android:07e21c98acbe9cbd75852b",
+        "android_client_info": {
+          "package_name": "com.mv.parkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjS10wacowz1-R8N8vr4EkKAEISgKaDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
